@@ -1,4 +1,4 @@
-```markdown
+
 # Docker Documentation
 
 ## Table of Contents
@@ -88,4 +88,4 @@ Docker Compose is a tool provided by Docker that simplifies the process of defin
 - Environment Variables and Secrets
 - Commands and Lifecycle Management
 ```
-This README provides a comprehensive guide on how to work with Docker, Docker volumes, and Docker Compose, covering basic concepts, commands, and use cases. Feel free to customize it further to suit your needs.
+
